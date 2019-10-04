@@ -6,4 +6,5 @@ header,
 }
 #intro {
   background: url(../img/most.jpg);
+  background-size: cover;
 }
